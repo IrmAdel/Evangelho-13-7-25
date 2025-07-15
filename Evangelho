@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Evangelho – Lc 10,25-37</title>
+  <style type="text/css">
+    body {
+      max-width: 700px;
+      margin: 0 auto;
+      text-align: justify;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+      color: #000000;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .botao {
+      display: inline-block;
+      background-color: #007BFF;
+      color: white;
+      padding: 12px 25px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      font-size: 16px;
+      margin-top: 30px;
+    }
+    .centralizar {
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Evangelho (Lc 10,25–37)</h1>
+
+  <p><strong>— Aleluia, Aleluia, Aleluia.</strong></p>
+  <p><strong>— Ó Senhor, vossas palavras são espírito e vida; as palavras que dizeis bem que são de eterna vida!</strong></p>
+
+  <p><strong>Proclamação do Evangelho de Jesus Cristo + segundo Lucas.</strong></p>
+  <p><strong>— Glória a vós, Senhor.</strong></p>
+
+  <p>Naquele tempo, <strong>25</strong> Um mestre da Lei se levantou e, querendo pôr Jesus em dificuldade, perguntou: "Mestre, que devo fazer para receber em herança a vida eterna?"</p>
+  <p><strong>26</strong> Jesus lhe disse: "O que está escrito na Lei? Como lês?"</p>
+  <p><strong>27</strong> Ele então respondeu: "Amarás o Senhor, teu Deus, de todo o teu coração e com toda a tua alma, com toda a tua força e com toda a tua inteligência; e ao teu próximo como a ti mesmo!"</p>
+  <p><strong>28</strong> Jesus lhe disse: "Tu respondeste corretamente. Faze isso e viverás".</p>
+  <p><strong>29</strong> Ele, porém, querendo justificar-se, disse a Jesus: "E quem é o meu próximo?"</p>
+  <p><strong>30</strong> Jesus respondeu: "Certo homem descia de Jerusalém para Jericó e caiu nas mãos de assaltantes. Estes arrancaram-lhe tudo, espancaram-no, e foram-se embora deixando-o quase morto.</p>
+  <p><strong>31</strong> Por acaso, um sacerdote estava descendo por aquele caminho. Quando viu o homem, seguiu adiante, pelo outro lado.</p>
+  <p><strong>32</strong> O mesmo aconteceu com um levita: chegou ao lugar, viu o homem e seguiu adiante, pelo outro lado.</p>
+  <p><strong>33</strong> Mas um samaritano que estava viajando, chegou perto dele, viu e sentiu compaixão.</p>
+  <p><strong>34</strong> Aproximou-se dele e fez curativos, derramando óleo e vinho nas feridas. Depois colocou o homem em seu próprio animal e levou-o a uma pensão, onde cuidou dele.</p>
+  <p><strong>35</strong> No dia seguinte, pegou duas moedas de prata e entregou-as ao dono da pensão, recomendando: "Toma conta dele! Quando eu voltar, vou pagar o que tiveres gasto a mais".</p>
+  <p><strong>36</strong> E Jesus perguntou: "Na tua opinião, qual dos três foi o próximo do homem que caiu nas mãos dos assaltantes?"</p>
+  <p><strong>37</strong> Ele respondeu: "Aquele que usou de misericórdia para com ele". Então Jesus lhe disse: "Vai e faze a mesma coisa".</p>
+
+  <p><strong>— Palavra da Salvação.</strong></p>
+  <p><strong>— Glória a vós, Senhor.</strong></p>
+
+  <div class="centralizar">
+    <a href="https://espartaquismo.blogspot.com/2025/07/homilia-do-15-domingo-do-tempo-comum.html" class="botao">Voltar</a>
+  </div>
+
+</body>
+</html>
